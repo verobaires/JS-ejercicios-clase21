@@ -1,2 +1,2 @@
 # JS-ejercicios-clase21
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/verobaires/JS-ejercicios-clase21/blob/main/img/ejercicio-1.png)
